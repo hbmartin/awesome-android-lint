@@ -20,17 +20,17 @@
 - [Vanniktech Lint Rules](https://github.com/vanniktech/lint-rules) - A very extensive set of opinionated and useful lint checks, includes Android and Rx checks.
 - [Slack Lint Rules](https://github.com/slackhq/slack-lints) - Extensive set of rules including Dagger, Moshi, and Mocking. Also uses annotations with certain rules.
 - [Android Serialization and Immutability Lints](https://github.com/kozaxinan/android-lints) - Rules for data immutability and serialization annotation for network requests.
-- [Try/catch exception rules](https://github.com/thirdegg/lint-rules) - Require exception checking in Kotlin
-- [Android Styling rules](https://github.com/thirdegg/lint-rules) - Require use of theme resources instead of hex or color atttributes on both code and XML.
+- [Try/catch exception rules](https://github.com/thirdegg/lint-rules) - Require exception checking in Kotlin.
+- [Android Styling rules](https://github.com/GuilhE/AndroidStyling-LintRules) - Require use of theme resources instead of hex or color attributes on both code and XML.
 
 
 ## Articles
 
-- [Improve your code with lint checks](https://developer.android.com/studio/write/lint) - Official lint configuration guide
+- [Improve your code with lint checks](https://developer.android.com/studio/write/lint) - Official lint configuration guide.
 - [Android Lint API Guide](http://googlesamples.github.io/android-custom-lint-rules/api-guide.html) - Comprehensive official lint API documenation.
-- [Implementing your first Android lint rule](https://proandroiddev.com/implementing-your-first-android-lint-rule-6e572383b292) - Introductory guide to writing lint rules
-- [Writing custom lint rules to maintain naming conventions](https://medium.com/baracoda-engineering/writing-custom-lint-rules-to-maintain-naming-conventions-52955f116d1f) - Introductory guide demonstrating Rx lint rule
-- [How to write a custom rule in Lint](https://medium.com/@dbottillo/how-to-write-a-custom-rule-in-lint-d2395d88c8c2) - Introductory guide demonstrating a forbidden import lint rule
+- [Implementing your first Android lint rule](https://proandroiddev.com/implementing-your-first-android-lint-rule-6e572383b292) - Introductory guide to writing lint rules.
+- [Writing custom lint rules to maintain naming conventions](https://medium.com/baracoda-engineering/writing-custom-lint-rules-to-maintain-naming-conventions-52955f116d1f) - Introductory guide demonstrating Rx lint rule.
+- [How to write a custom rule in Lint](https://medium.com/@dbottillo/how-to-write-a-custom-rule-in-lint-d2395d88c8c2) - Introductory guide demonstrating a forbidden import lint rule.
 
 ## Other
 
