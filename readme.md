@@ -22,6 +22,7 @@
 - [Android Serialization and Immutability Lints](https://github.com/kozaxinan/android-lints) - Rules for data immutability and serialization annotation for network requests.
 - [Try/catch exception rules](https://github.com/thirdegg/lint-rules) - Require exception checking in Kotlin.
 - [Android Styling rules](https://github.com/GuilhE/AndroidStyling-LintRules) - Require use of theme resources instead of hex or color attributes on both code and XML.
+- [Exception catching and mutability rules](https://github.com/guilhermekrz/CustomAndroidLint) - Detect if Java code throws and Kotlin code does not catch and others
 
 
 ## Articles
